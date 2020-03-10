@@ -1,0 +1,6 @@
+/node_modules
+.env
+*.yml
+*.sass
+*.css.map
+/gitignore
